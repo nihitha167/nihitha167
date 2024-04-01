@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihitha167&label=Profile%20views&color=0e75b6&style=flat" alt="nihitha167" /> </p>
 
-- 🔭 I’m currently working on **FileExplorer Pro: Advanced File System Management**
-
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Kotlin and ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://nihitha167.github.io/Portfolio_Nihitha_Reddy_Seelam/](https://nihitha167.github.io/Portfolio_Nihitha_Reddy_Seelam/)
 
