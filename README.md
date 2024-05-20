@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihitha Reddy Seelam</h1>
-<h3 align="center">MS in Computer Science | Graduate Assistant at RFID Lab, AU | Former Research Engineer, Hyundai Mobis</h3>
+<h3 align="center">MS in Computer Science | Arc Program Testing Specialist at RFID Lab, AU | Former Research Engineer, Hyundai Mobis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihitha167&label=Profile%20views&color=0e75b6&style=flat" alt="nihitha167" /> </p>
 
