@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihitha167&label=Profile%20views&color=0e75b6&style=flat" alt="nihitha167" /> </p>
 
-- 🌱 I’m currently learning **Kotlin and ReactJs**
+- 🌱 I’m currently learning AWS
 
 - 👨‍💻 All of my projects are available at [https://nihitha167.github.io/Portfolio_Nihitha_Reddy_Seelam/](https://nihitha167.github.io/Portfolio_Nihitha_Reddy_Seelam/)
 
-- 💬 Ask me about **Python, ExpressJs, NodeJs**
+- 💬 Ask me about **Python, Android, Web development**
 
-- 📫 How to reach me **nihitha40633@gmail.com**
+- 📫 How to reach me **nihithareddy167@gmail.com**
 
 - ⚡ Fun fact **When I'm not coding, you'll often find me on the badminton court smashing shuttlecocks or hitting the dance floor, grooving to the rhythm! 🏸💃**
 
