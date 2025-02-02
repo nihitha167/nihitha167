@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihitha Reddy Seelam</h1>
-<h3 align="center">MS in Computer Science | Arc Program Testing Specialist at RFID Lab, AU | Former Research Engineer, Hyundai Mobis</h3>
+<h3 align="center">MS in Computer Science | Research Assistant, AU | Former Research Engineer, Hyundai Mobis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihitha167&label=Profile%20views&color=0e75b6&style=flat" alt="nihitha167" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nihitha167.github.io/Portfolio_Nihitha_Reddy_Seelam/](https://nihitha167.github.io/Portfolio_Nihitha_Reddy_Seelam/)
 
-- 💬 Ask me about **Python, Android, Web development**
+- 💬 Ask me about **Python, Android, Web development, Docker, AWS**
 
 - 📫 How to reach me **nihithareddy167@gmail.com**
 
