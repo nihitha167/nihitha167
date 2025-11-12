@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihitha167&label=Profile%20views&color=0e75b6&style=flat" alt="nihitha167" /> </p>
 
-- 🌱 I’m currently pursuing 
+- 🌱 I’m currently pursuing AWS Certified DevOps Engineer - Professional
 
 - 👨‍💻 All of my projects are available at [https://nihitha-reddy-s-xtdjgtl.gamma.site/](https://nihitha-reddy-s-xtdjgtl.gamma.site/)
 
