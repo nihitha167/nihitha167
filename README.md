@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nihitha Reddy Seelam</h1>
-<h3 align="center">MS in Computer Science | Research Assistant, AU | Former Research Engineer, Hyundai Mobis</h3>
+<h3 align="center">MS in Computer Science and Software Engineering | Software Engineer, MetaHub IT Solutions | Research Assistant, Auburn University | Software Research Engineer, Hyundai Mobis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihitha167&label=Profile%20views&color=0e75b6&style=flat" alt="nihitha167" /> </p>
 
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently pursuing 
 
-- 👨‍💻 All of my projects are available at [https://nihitha167.github.io/Portfolio_Nihitha_Reddy_Seelam/](https://nihitha167.github.io/Portfolio_Nihitha_Reddy_Seelam/)
+- 👨‍💻 All of my projects are available at [https://nihitha-reddy-s-xtdjgtl.gamma.site/](https://nihitha-reddy-s-xtdjgtl.gamma.site/)
 
-- 💬 Ask me about **Python, Android, Web development, Docker, AWS**
+- 💬 Ask me about **Full Stack Web development, Docker, AWS, DevOps, Python, Java, Android **
 
-- 📫 How to reach me **nihithareddy167@gmail.com**
+- 📫 How to reach me **nihithareddy.seelam01@gmail.com**
 
 - ⚡ Fun fact **When I'm not coding, you'll often find me on the badminton court smashing shuttlecocks or hitting the dance floor, grooving to the rhythm! 🏸💃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nihitha-reddy-seelam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nihitha-reddy-seelam/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nihithareddys/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nihitha-reddy-seelam/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
